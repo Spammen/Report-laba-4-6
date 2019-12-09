@@ -29,3 +29,4 @@
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/07_A3.png)
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/08_A4.png)
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/09_A43.png)
+
