@@ -21,3 +21,4 @@
 **Цель моделирования:**
 
 
+!(https://github.com/Spammen/Report-laba-4-6/blob/master/01_A-0.png)
