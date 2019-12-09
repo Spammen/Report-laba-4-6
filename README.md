@@ -22,3 +22,10 @@
 
 
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/01_A-0.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/02_A0.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/04_A2.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/05_A23.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/06_A232.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/01_A-0.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/01_A-0.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/01_A-0.png)
