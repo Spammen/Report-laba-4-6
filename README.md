@@ -36,3 +36,5 @@
 
 Определение допустимых видов хранилищ и их размещения: SQL,файловое хранилище внутри ИС
 
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/image.png)
+
