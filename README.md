@@ -51,7 +51,7 @@ UFP:
 
 COCOMO 2:
 
-![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Cocomo.PNG)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Cocomo2.PNG)
 
 FPA:
 
