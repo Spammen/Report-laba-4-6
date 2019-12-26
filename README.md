@@ -46,15 +46,25 @@
 UFP:
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/image.png)
 Определение числовых показателей для трудозатрат на разработку программных средств:
+
 COCOMO 2:
+
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Cocomo.PNG)
+
 FPA:
+
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Fra.PNG)
+
 Потоки:
+
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Pot.PNG)
+
 Роли:
+
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Rol.PNG)
-Мдели:
+
+Модели:
+
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/Mod.PNG)
 
 Примерны срок изготовления протезов и настройка его состовляет от 1 до 5 месяцев. Такой срок обусловлен рарзрозненостью специалистов. Система, разработанная в курсовом проекте обеспечивает сроки от 7 до 30 дней из-за организации и бысрой передаци данных между специалистами.
