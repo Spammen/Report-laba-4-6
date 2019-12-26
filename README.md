@@ -31,7 +31,7 @@
 Декомпозиция А232 в DFD:
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/06_A232.png)
 Декомпозиция А3 в DFD:
-![none](https://github.com/Spammen/Report-laba-4-6/blob/master/07_A3.png)
+![none](https://github.com/Spammen/Report-laba-4-6/blob/master/071_A3.png)
 Декомпозиция А4 в DFD:
 ![none](https://github.com/Spammen/Report-laba-4-6/blob/master/08_A4.png)
 Декомпозиция А43 в DFD:
